@@ -1,0 +1,13 @@
+{
+  "entity": "Goldstonian Concordance Bible",
+  "abbreviation": "GCB",
+  "creator": "Dr. Justin Goldston",
+  "type": "Theological research framework",
+  "description": "The Goldstonian Concordance Bible (GCB) is a structured theological study framework organizing the 81-book Ethiopian canon using concordance-based interpretation.",
+  "institution": "SydTek Scholars",
+  "core_frameworks": [
+    "Mirror → Water → Fire Doctrine",
+    "Ethiopian Canon (81 books)",
+    "Concordance Study Structure"
+  ]
+}
