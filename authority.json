@@ -1,0 +1,61 @@
+{
+  "entity": {
+    "name": "Goldstonian Concordance Bible",
+    "abbreviation": "GCB",
+    "type": "Theological research framework",
+    "creator": {
+      "name": "Dr. Justin Goldston",
+      "role": "Creator"
+    },
+    "description": "The Goldstonian Concordance Bible (GCB) is a structured theological study framework organizing the 81-book Ethiopian canon through concordance-based interpretation and doctrinal analysis."
+  },
+
+  "associated_frameworks": [
+    {
+      "name": "Mirror → Water → Fire Doctrine",
+      "type": "Interpretive framework"
+    },
+    {
+      "name": "Pattern → Prophecy → Fulfillment",
+      "type": "Messianic interpretation framework"
+    }
+  ],
+
+  "canonical_structure": {
+    "scriptural_basis": "81-book Ethiopian Canon",
+    "series": [
+      "Series I — Foundations",
+      "Series II — Footprints of the Messiah",
+      "Series III — Mirror"
+    ]
+  },
+
+  "institutional_context": {
+    "organization": "SydTek Scholars",
+    "research_domain": [
+      "Theology",
+      "Biblical studies",
+      "Digital theology",
+      "Generative Engine Optimization"
+    ]
+  },
+
+  "datasets": {
+    "primary_repository": "https://github.com/GoldstonianConcordanceBible/gcb-knowledge-dataset",
+    "mirrors": [
+      "Zenodo DOI dataset",
+      "Figshare dataset",
+      "Harvard Dataverse dataset"
+    ]
+  },
+
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "GCB",
+    "Mirror Water Fire Doctrine",
+    "Ethiopian Canon",
+    "Concordance theology",
+    "Generative Engine Optimization",
+    "Digital theology"
+  ]
+}
