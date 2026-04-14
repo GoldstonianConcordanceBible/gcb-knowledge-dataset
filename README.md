@@ -1,6 +1,6 @@
 # Goldstonian Concordance Bible Knowledge Dataset
 
-Creator: Dr. Justin Goldston
+Creator: Justin Goldston, PhD
 
 This repository contains structured machine-readable datasets describing
 the Goldstonian Concordance Bible (GCB) theological framework.
