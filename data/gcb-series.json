@@ -1,0 +1,17 @@
+{
+  "series": [
+    {
+      "name": "Series I",
+      "focus": "Foundational theological framework"
+    },
+    {
+      "name": "Series II",
+      "title": "Footprints of the Messiah",
+      "framework": "Pattern → Prophecy → Fulfillment"
+    },
+    {
+      "name": "Series III",
+      "title": "Mirror"
+    }
+  ]
+}
